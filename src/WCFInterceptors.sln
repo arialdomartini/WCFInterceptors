@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFInterceptors", "WCFInterceptors\WCFInterceptors.csproj", "{F5C0B9CB-305F-48BE-BB55-F539BA7F123F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFInterceptors.Test", "WCFInterceptors.Test\WCFInterceptors.Test.csproj", "{297BD14D-C6BA-4E92-AEE6-9CEED4E4E0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297BD14D-C6BA-4E92-AEE6-9CEED4E4E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297BD14D-C6BA-4E92-AEE6-9CEED4E4E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297BD14D-C6BA-4E92-AEE6-9CEED4E4E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297BD14D-C6BA-4E92-AEE6-9CEED4E4E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C0B9CB-305F-48BE-BB55-F539BA7F123F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C0B9CB-305F-48BE-BB55-F539BA7F123F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C0B9CB-305F-48BE-BB55-F539BA7F123F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C0B9CB-305F-48BE-BB55-F539BA7F123F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
