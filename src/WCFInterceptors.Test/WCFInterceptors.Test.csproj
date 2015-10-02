@@ -38,6 +38,7 @@
     <Reference Include="FluentAssertions">
       <HintPath>..\..\packages\FluentAssertions.4.0.0\lib\net45\FluentAssertions.dll</HintPath>
     </Reference>
+    <Reference Include="System.ServiceModel" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MyClass.cs" />
